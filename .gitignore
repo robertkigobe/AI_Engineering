@@ -1,0 +1,12 @@
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
