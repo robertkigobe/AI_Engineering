@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" font-family="Helvetica, Arial, sans-serif">
+<rect width="1120" height="760" fill="#ffffff"/>
+<rect x="330.0" y="20" width="460" height="64" rx="14" fill="#111827"/>
+<text x="560.0" y="50" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Foundation model use cases</text>
+<text x="560.0" y="72" text-anchor="middle" font-size="13" fill="#d1d5db">8 categories, each with consumer + enterprise examples</text>
+<line x1="560.0" y1="84" x2="155.0" y2="108" stroke="#9ca3af" stroke-width="1.5"/>
+<rect x="30" y="108" width="250" height="56" rx="10" fill="#2563eb"/>
+<text x="155.0" y="134" text-anchor="middle" font-size="19" font-weight="700" fill="#fff" letter-spacing="1">CREATE</text>
+<text x="155.0" y="153" text-anchor="middle" font-size="13" fill="#fff">AI makes things</text>
+<polygon points="282,126 298,136 282,146" fill="#6b7280"/>
+<line x1="560.0" y1="84" x2="425.0" y2="108" stroke="#9ca3af" stroke-width="1.5"/>
+<rect x="300" y="108" width="250" height="56" rx="10" fill="#7c3aed"/>
+<text x="425.0" y="134" text-anchor="middle" font-size="19" font-weight="700" fill="#fff" letter-spacing="1">CONVERSE</text>
+<text x="425.0" y="153" text-anchor="middle" font-size="13" fill="#fff">AI talks with people</text>
+<polygon points="552,126 568,136 552,146" fill="#6b7280"/>
+<line x1="560.0" y1="84" x2="695.0" y2="108" stroke="#9ca3af" stroke-width="1.5"/>
+<rect x="570" y="108" width="250" height="56" rx="10" fill="#0d9488"/>
+<text x="695.0" y="134" text-anchor="middle" font-size="19" font-weight="700" fill="#fff" letter-spacing="1">ORGANIZE</text>
+<text x="695.0" y="153" text-anchor="middle" font-size="13" fill="#fff">AI makes sense of info</text>
+<polygon points="822,126 838,136 822,146" fill="#6b7280"/>
+<line x1="560.0" y1="84" x2="965.0" y2="108" stroke="#9ca3af" stroke-width="1.5"/>
+<rect x="840" y="108" width="250" height="56" rx="10" fill="#ea580c"/>
+<text x="965.0" y="134" text-anchor="middle" font-size="19" font-weight="700" fill="#fff" letter-spacing="1">ACT</text>
+<text x="965.0" y="153" text-anchor="middle" font-size="13" fill="#fff">AI does things for you</text>
+<rect x="30" y="184" width="250" height="118" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="52" cy="208" r="13" fill="#2563eb"/>
+<text x="52" y="213" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">1</text>
+<text x="72" y="214" font-size="16" font-weight="700" fill="#111827">Coding</text>
+<text x="44" y="244" font-size="11" font-weight="700" fill="#2563eb">CONSUMER</text>
+<text x="44" y="260" font-size="13" fill="#374151">Write code with an assistant</text>
+<text x="44" y="280" font-size="11" font-weight="700" fill="#2563eb">ENTERPRISE</text>
+<text x="44" y="296" font-size="13" fill="#374151">Code review, tests, docs</text>
+<rect x="30" y="316" width="250" height="118" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="52" cy="340" r="13" fill="#2563eb"/>
+<text x="52" y="345" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">2</text>
+<text x="72" y="346" font-size="16" font-weight="700" fill="#111827">Image &amp; video</text>
+<text x="44" y="376" font-size="11" font-weight="700" fill="#2563eb">CONSUMER</text>
+<text x="44" y="392" font-size="13" fill="#374151">Photo/video editing, design</text>
+<text x="44" y="412" font-size="11" font-weight="700" fill="#2563eb">ENTERPRISE</text>
+<text x="44" y="428" font-size="13" fill="#374151">Ads, marketing, product images</text>
+<rect x="30" y="448" width="250" height="118" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="52" cy="472" r="13" fill="#2563eb"/>
+<text x="52" y="477" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">3</text>
+<text x="72" y="478" font-size="16" font-weight="700" fill="#111827">Writing</text>
+<text x="44" y="508" font-size="11" font-weight="700" fill="#2563eb">CONSUMER</text>
+<text x="44" y="524" font-size="13" fill="#374151">Emails, posts, essays</text>
+<text x="44" y="544" font-size="11" font-weight="700" fill="#2563eb">ENTERPRISE</text>
+<text x="44" y="560" font-size="13" fill="#374151">Copywriting, reports, SEO</text>
+<rect x="300" y="184" width="250" height="118" rx="10" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="322" cy="208" r="13" fill="#7c3aed"/>
+<text x="322" y="213" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">4</text>
+<text x="342" y="214" font-size="16" font-weight="700" fill="#111827">Education</text>
+<text x="314" y="244" font-size="11" font-weight="700" fill="#7c3aed">CONSUMER</text>
+<text x="314" y="260" font-size="13" fill="#374151">Tutoring, homework, languages</text>
+<text x="314" y="280" font-size="11" font-weight="700" fill="#7c3aed">ENTERPRISE</text>
+<text x="314" y="296" font-size="13" fill="#374151">Staff training, onboarding</text>
+<rect x="300" y="316" width="250" height="118" rx="10" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="322" cy="340" r="13" fill="#7c3aed"/>
+<text x="322" y="345" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">5</text>
+<text x="342" y="346" font-size="16" font-weight="700" fill="#111827">Conversational bots</text>
+<text x="314" y="376" font-size="11" font-weight="700" fill="#7c3aed">CONSUMER</text>
+<text x="314" y="392" font-size="13" fill="#374151">Chatbots, AI companions</text>
+<text x="314" y="412" font-size="11" font-weight="700" fill="#7c3aed">ENTERPRISE</text>
+<text x="314" y="428" font-size="13" fill="#374151">Customer support, assistants</text>
+<rect x="570" y="184" width="250" height="118" rx="10" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="592" cy="208" r="13" fill="#0d9488"/>
+<text x="592" y="213" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">6</text>
+<text x="612" y="214" font-size="16" font-weight="700" fill="#111827">Information aggregation</text>
+<text x="584" y="244" font-size="11" font-weight="700" fill="#0d9488">CONSUMER</text>
+<text x="584" y="260" font-size="13" fill="#374151">Summarise articles, chat with docs</text>
+<text x="584" y="280" font-size="11" font-weight="700" fill="#0d9488">ENTERPRISE</text>
+<text x="584" y="296" font-size="13" fill="#374151">Meeting notes, market research</text>
+<rect x="570" y="316" width="250" height="118" rx="10" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="592" cy="340" r="13" fill="#0d9488"/>
+<text x="592" y="345" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">7</text>
+<text x="612" y="346" font-size="16" font-weight="700" fill="#111827">Data organization</text>
+<text x="584" y="376" font-size="11" font-weight="700" fill="#0d9488">CONSUMER</text>
+<text x="584" y="392" font-size="13" fill="#374151">Search photos, sort files</text>
+<text x="584" y="412" font-size="11" font-weight="700" fill="#0d9488">ENTERPRISE</text>
+<text x="584" y="428" font-size="13" fill="#374151">Extract data from invoices/forms</text>
+<rect x="840" y="184" width="250" height="118" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="862" cy="208" r="13" fill="#ea580c"/>
+<text x="862" y="213" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">8</text>
+<text x="882" y="214" font-size="16" font-weight="700" fill="#111827">Workflow automation</text>
+<text x="854" y="244" font-size="11" font-weight="700" fill="#ea580c">CONSUMER</text>
+<text x="854" y="260" font-size="13" fill="#374151">Book travel, plan tasks</text>
+<text x="854" y="280" font-size="11" font-weight="700" fill="#ea580c">ENTERPRISE</text>
+<text x="854" y="296" font-size="13" fill="#374151">Leads, data entry, AI agents</text>
+<rect x="30" y="590" width="1060" height="150" rx="12" fill="#f9fafb" stroke="#d1d5db"/>
+<text x="48" y="620" font-size="16" font-weight="700" fill="#111827">Remember</text>
+<text x="48" y="646" font-size="14" fill="#374151">• <tspan font-weight="700" fill="#111827">Create → Converse → Organize → Act:</tspan> AI goes from making things to doing things for you.</text>
+<text x="48" y="666" font-size="14" fill="#374151">• <tspan font-weight="700" fill="#111827">Coding</tspan> is the most popular, proven use case so far.</text>
+<text x="48" y="686" font-size="14" fill="#374151">• <tspan font-weight="700" fill="#111827">Enterprises start internal</tspan> (lower risk) before customer-facing apps.</text>
+<text x="48" y="706" font-size="14" fill="#374151">• <tspan font-weight="700" fill="#111827">Agents (Act)</tspan> are the most ambitious: the model takes actions, not just answers.</text>
+<text x="48" y="726" font-size="14" fill="#374151">• <tspan font-weight="700" fill="#111827">Same toolkit everywhere:</tspan> prompt engineering, RAG, finetuning, agents.</text>
+</svg>
