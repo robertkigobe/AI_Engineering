@@ -11,6 +11,7 @@ My notes and code examples while reading *AI Engineering* by Chip Huyen.
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
+pip install --upgrade pip
 pip install jupyter transformers torch
 jupyter notebook
 ```
